@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Exercise\P04_WorkForce\obj\Debug\netcoreapp2.0\P04_WorkForce.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Exercise\P04_WorkForce\obj\Debug\netcoreapp2.0\P04_WorkForce.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Exercise\P04_WorkForce\obj\Debug\netcoreapp2.0\P04_WorkForce.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Exercise\P04_WorkForce\obj\Debug\netcoreapp2.0\P04_WorkForce.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Exercise\P04_WorkForce\bin\Debug\netcoreapp2.0\P04_WorkForce.deps.json
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Exercise\P04_WorkForce\bin\Debug\netcoreapp2.0\P04_WorkForce.runtimeconfig.json
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Exercise\P04_WorkForce\bin\Debug\netcoreapp2.0\P04_WorkForce.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Exercise\P04_WorkForce\bin\Debug\netcoreapp2.0\P04_WorkForce.dll
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Exercise\P04_WorkForce\bin\Debug\netcoreapp2.0\P04_WorkForce.pdb
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Exercise\P04_WorkForce\obj\Debug\netcoreapp2.0\P04_WorkForce.dll
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Exercise\P04_WorkForce\obj\Debug\netcoreapp2.0\P04_WorkForce.pdb

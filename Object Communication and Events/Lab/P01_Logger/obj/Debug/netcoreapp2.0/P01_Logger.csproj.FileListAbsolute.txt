@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Lab\P01_Logger\bin\Debug\netcoreapp2.0\P01_Logger.deps.json
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Lab\P01_Logger\bin\Debug\netcoreapp2.0\P01_Logger.runtimeconfig.json
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Lab\P01_Logger\bin\Debug\netcoreapp2.0\P01_Logger.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Lab\P01_Logger\bin\Debug\netcoreapp2.0\P01_Logger.dll
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Lab\P01_Logger\bin\Debug\netcoreapp2.0\P01_Logger.pdb
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Lab\P01_Logger\obj\Debug\netcoreapp2.0\P01_Logger.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Lab\P01_Logger\obj\Debug\netcoreapp2.0\P01_Logger.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Lab\P01_Logger\obj\Debug\netcoreapp2.0\P01_Logger.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Lab\P01_Logger\obj\Debug\netcoreapp2.0\P01_Logger.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Lab\P01_Logger\obj\Debug\netcoreapp2.0\P01_Logger.dll
+E:\Coding\SoftUni\C# OOP Advanced\Object Communication and Events\Lab\P01_Logger\obj\Debug\netcoreapp2.0\P01_Logger.pdb
