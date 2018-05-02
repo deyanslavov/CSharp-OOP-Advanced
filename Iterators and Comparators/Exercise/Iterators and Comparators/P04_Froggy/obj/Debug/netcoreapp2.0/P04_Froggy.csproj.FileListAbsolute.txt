@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\C# OOP Advanced\Iterators and Comparators\Exercise\Iterators and Comparators\P04_Froggy\bin\Debug\netcoreapp2.0\P04_Froggy.deps.json
+E:\Coding\SoftUni\C# OOP Advanced\Iterators and Comparators\Exercise\Iterators and Comparators\P04_Froggy\bin\Debug\netcoreapp2.0\P04_Froggy.runtimeconfig.json
+E:\Coding\SoftUni\C# OOP Advanced\Iterators and Comparators\Exercise\Iterators and Comparators\P04_Froggy\bin\Debug\netcoreapp2.0\P04_Froggy.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# OOP Advanced\Iterators and Comparators\Exercise\Iterators and Comparators\P04_Froggy\bin\Debug\netcoreapp2.0\P04_Froggy.dll
+E:\Coding\SoftUni\C# OOP Advanced\Iterators and Comparators\Exercise\Iterators and Comparators\P04_Froggy\bin\Debug\netcoreapp2.0\P04_Froggy.pdb
+E:\Coding\SoftUni\C# OOP Advanced\Iterators and Comparators\Exercise\Iterators and Comparators\P04_Froggy\obj\Debug\netcoreapp2.0\P04_Froggy.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Advanced\Iterators and Comparators\Exercise\Iterators and Comparators\P04_Froggy\obj\Debug\netcoreapp2.0\P04_Froggy.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Iterators and Comparators\Exercise\Iterators and Comparators\P04_Froggy\obj\Debug\netcoreapp2.0\P04_Froggy.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Iterators and Comparators\Exercise\Iterators and Comparators\P04_Froggy\obj\Debug\netcoreapp2.0\P04_Froggy.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Advanced\Iterators and Comparators\Exercise\Iterators and Comparators\P04_Froggy\obj\Debug\netcoreapp2.0\P04_Froggy.dll
+E:\Coding\SoftUni\C# OOP Advanced\Iterators and Comparators\Exercise\Iterators and Comparators\P04_Froggy\obj\Debug\netcoreapp2.0\P04_Froggy.pdb
