@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Lab\P03_MissionPrivateImpossible\bin\Debug\netcoreapp2.0\P03_MissionPrivateImpossible.deps.json
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Lab\P03_MissionPrivateImpossible\bin\Debug\netcoreapp2.0\P03_MissionPrivateImpossible.runtimeconfig.json
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Lab\P03_MissionPrivateImpossible\bin\Debug\netcoreapp2.0\P03_MissionPrivateImpossible.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Lab\P03_MissionPrivateImpossible\bin\Debug\netcoreapp2.0\P03_MissionPrivateImpossible.dll
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Lab\P03_MissionPrivateImpossible\bin\Debug\netcoreapp2.0\P03_MissionPrivateImpossible.pdb
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Lab\P03_MissionPrivateImpossible\obj\Debug\netcoreapp2.0\P03_MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Lab\P03_MissionPrivateImpossible\obj\Debug\netcoreapp2.0\P03_MissionPrivateImpossible.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Lab\P03_MissionPrivateImpossible\obj\Debug\netcoreapp2.0\P03_MissionPrivateImpossible.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Lab\P03_MissionPrivateImpossible\obj\Debug\netcoreapp2.0\P03_MissionPrivateImpossible.dll
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Lab\P03_MissionPrivateImpossible\obj\Debug\netcoreapp2.0\P03_MissionPrivateImpossible.pdb
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Lab\P03_MissionPrivateImpossible\obj\Debug\netcoreapp2.0\P03_MissionPrivateImpossible.csprojResolveAssemblyReference.cache

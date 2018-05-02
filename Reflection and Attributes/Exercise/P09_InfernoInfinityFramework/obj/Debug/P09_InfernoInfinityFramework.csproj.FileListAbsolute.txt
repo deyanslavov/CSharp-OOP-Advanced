@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P09_InfernoInfinityFramework\obj\Debug\P09_InfernoInfinityFramework.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P09_InfernoInfinityFramework\obj\Debug\P09_InfernoInfinityFramework.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P09_InfernoInfinityFramework\bin\Debug\P09_InfernoInfinityFramework.exe.config
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P09_InfernoInfinityFramework\bin\Debug\P09_InfernoInfinityFramework.exe
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P09_InfernoInfinityFramework\bin\Debug\P09_InfernoInfinityFramework.pdb
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P09_InfernoInfinityFramework\obj\Debug\P09_InfernoInfinityFramework.exe
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P09_InfernoInfinityFramework\obj\Debug\P09_InfernoInfinityFramework.pdb

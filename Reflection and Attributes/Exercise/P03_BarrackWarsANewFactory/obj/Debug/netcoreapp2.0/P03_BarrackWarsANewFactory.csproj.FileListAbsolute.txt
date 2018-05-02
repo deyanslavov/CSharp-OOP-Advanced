@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P03_BarrackWarsANewFactory\bin\Debug\netcoreapp2.0\P03_BarrackWarsANewFactory.deps.json
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P03_BarrackWarsANewFactory\bin\Debug\netcoreapp2.0\P03_BarrackWarsANewFactory.runtimeconfig.json
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P03_BarrackWarsANewFactory\bin\Debug\netcoreapp2.0\P03_BarrackWarsANewFactory.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P03_BarrackWarsANewFactory\bin\Debug\netcoreapp2.0\P03_BarrackWarsANewFactory.dll
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P03_BarrackWarsANewFactory\bin\Debug\netcoreapp2.0\P03_BarrackWarsANewFactory.pdb
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P03_BarrackWarsANewFactory\obj\Debug\netcoreapp2.0\P03_BarrackWarsANewFactory.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P03_BarrackWarsANewFactory\obj\Debug\netcoreapp2.0\P03_BarrackWarsANewFactory.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P03_BarrackWarsANewFactory\obj\Debug\netcoreapp2.0\P03_BarrackWarsANewFactory.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P03_BarrackWarsANewFactory\obj\Debug\netcoreapp2.0\P03_BarrackWarsANewFactory.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P03_BarrackWarsANewFactory\obj\Debug\netcoreapp2.0\P03_BarrackWarsANewFactory.dll
+E:\Coding\SoftUni\C# OOP Advanced\Reflection and Attributes\Exercise\P03_BarrackWarsANewFactory\obj\Debug\netcoreapp2.0\P03_BarrackWarsANewFactory.pdb
